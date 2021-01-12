@@ -28,7 +28,7 @@ class Person {
 }
 
 
-module.exports = usage;
+module.exports = usage; // like default in ES6
 module.exports.adder = adder;
 module.exports.differ = subtracter;
 module.exports.multiplier = multiplier;
